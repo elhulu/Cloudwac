@@ -1,6 +1,6 @@
-# Cloudwac
+# Objectif
 
-Votre mission va consister à réaliser une plateforme de stockage en ligne comme il en
+Réaliser une plateforme de stockage en ligne comme il en
 existe beaucoup de nos jours : Google Drive, Dropbox, ...
  
 ## Le service
