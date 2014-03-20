@@ -19,8 +19,8 @@ Outre le système d’upload pour des fichiers en Jquery / PHP avec pour contrai
 
 ## Gestion des fichiers
 
-Sont présentes également les fonctionnalités nécessaires à la bonne gestion de
-vos fichiers : renommer, supprimer, déplacer.
+Sont présentes également les fonctionnalités nécessaires à la bonne gestion 
+desfichiers : renommer, supprimer, déplacer.
 
 
 ## Fichiers musicaux
