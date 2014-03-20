@@ -1,7 +1,6 @@
 # Objectif
 
-Réaliser une plateforme de stockage en ligne comme il en
-existe beaucoup de nos jours : Google Drive, Dropbox, ...
+Réaliser une plateforme de stockage en ligne.
  
 ## Le service
 
