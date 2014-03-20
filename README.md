@@ -30,6 +30,6 @@ qu’en streaming.
 
 ## Le partage de fichiers
 
-Une fonctionnalité de partage des fichiers est disponnible soit en partageant un fichier avec un utilisateur du
+Une fonctionnalité de partage des fichiers est disponible soit en partageant un fichier avec un utilisateur du
 site ou bien en envoyant un email pour l’inviter à s’inscrire afin de pouvoir accéder au dit fichier.
 
